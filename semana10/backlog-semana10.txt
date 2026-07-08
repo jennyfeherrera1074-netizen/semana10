@@ -1,0 +1,10 @@
+prioridad 1
+como ciudadano quiero resgistrar una incidencia desde la web para dejar evidencia del caso.
+prioridad 2
+como coordinador quiero recibir una alerta en telegram cuando llegue un nuevo reporte para revisarlo rapido.
+prioridad 3
+como miembro de equipo quiere consultar todos los reportes en un panel para hacer seguimiento.
+prioridad 4 
+como ciudadano quiero ver el estado de de mi reporte para saber si ya fue atendido.
+prioridad 5
+como admistrador quiero exportar los reportes en csv para generar informes mensuales.

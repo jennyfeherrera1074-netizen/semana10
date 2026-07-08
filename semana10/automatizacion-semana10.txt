@@ -1,0 +1,4 @@
+evento: un nuevo reporte de incidencia es registrado por un ciudadano en el sistema web
+accion: n8n detecta el nuevo registro y envia automaticamente un mensaje al grupo de telegram del equipo de coordinacion
+mensaje: nuevo reporte recibido. revisar sistema para detalles
+informacion que no se debe enviarse: nombres completos, documentos de identidad, direcciones exactas, telefonos, correos, claves cualquier dato personal del ciudadadano.

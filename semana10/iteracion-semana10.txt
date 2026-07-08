@@ -1,0 +1,9 @@
+¿que 2 tareas del backlog harias primero?
+tarea 1: registrar una incidencia desde la web  
+tarea 2: recibir alerta de telegram cuando llegue un nuevo reporte 
+¿ porque son las mas importantes?
+son importantes porque sin la primera no hay datos que atender y sin la segunda  el coordinador  no se enteraria que llegaria algo nuevo son la base  ´para que el flujo funcione 
+¿que significa para ti que una tarea este terminada?
+-la funcionaliadd hace lo que se debe hacer sin errores
+-se probo manualmente y responde correctamente
+-el codigo se subio al respositorio con commit

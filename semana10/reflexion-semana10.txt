@@ -1,0 +1,3 @@
+las metodologias agiles ayudan a organizar mejor a la comunidad ya que permite trabajar por partes pequeñas y se pueden priorizar lo mas urgente.
+la automatizacion con herramientas como el n8n ahorra tiempo al ahorrar tareas como enviar avisos manuales
+los canales como telegram facilita la comunicacion rapida entre el equipo y la comunidad
